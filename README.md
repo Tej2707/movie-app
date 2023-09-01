@@ -1,8 +1,8 @@
 
-# Movie Search Web App Build in React
+# Movie Search Web App Build in React 
+ ## link below 👇
 
-
-[Link](https://tej2707.github.io/movie-app)
+[Live](https://tej2707.github.io/movie-app)
 
 
 ## You can search of any movie and mark it as your favourite also
